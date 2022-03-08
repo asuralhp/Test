@@ -1,8 +1,6 @@
-# Winget App List
+# Winget App
 
-## Winstall Gui [Winstall](https://winstall.app)
-
-## winget app install list
+Winstall Gui: [Winstall](https://winstall.app)
 
 ```cli
 winget install --id=Cockos.LICEcap  -e
