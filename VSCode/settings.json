@@ -1,0 +1,8 @@
+{
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "editor.trimAutoWhitespace": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.autoIndent": "advanced"
+}
