@@ -1,1 +1,0 @@
-Out-File -FilePath .\output\test_string.txt -InputObject "Out"
