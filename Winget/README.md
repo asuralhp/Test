@@ -6,3 +6,5 @@ Winstall Gui: [Winstall](https://winstall.app)
 winget install --id=Cockos.LICEcap  -e
 winget install --id=Git.Git  -e
 ```
+
+new update
