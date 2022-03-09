@@ -14,4 +14,4 @@ rm -r Folder
 cp File.ext File_Copy.ext
 cp File.ext Target_Directory
 cp File.ext File_Copy.ext Target_Directory
-cp -r Folder Folder_copy # if Folder_copy exist Folder will move into it
+cp -r Folder Folder_copy #if Folder_copy exist Folder will move into it
