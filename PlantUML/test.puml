@@ -1,0 +1,41 @@
+
+' @startuml
+
+' start
+' :Init Phase;
+' :Transfer Phase;
+' note right
+'   long running activity,
+'   process requires signal to proceed
+' end note
+' :Termination Phase;
+' :Ending;
+
+' stop
+' @enduml
+
+' @startuml
+' start
+' repeat :Enter data;
+' :Submit;
+' backward :Warning;
+' :Crashing;
+' note right: Note
+' repeat while (Valid?) is (No) not (Yes)
+' stop
+' @enduml
+
+@startmindmap
+* Debian
+** Ubuntu
+*** Linux Mint
+*** Kubuntu
+*** Lubuntu
+*** KDE Neon
+** LMDE
+** SolydXK
+** SteamOS
+** Raspbian with a very long name
+*** <s>Raspmbc</s> => OSMC
+*** <s>Raspyfi</s> => Volumio
+@endmindmap

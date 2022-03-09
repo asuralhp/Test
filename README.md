@@ -1,7 +1,39 @@
 
-## UML diagrams
+# Knownledge Base
+
+## Projects
+
+
+```plantuml
+
+@startmindmap
+* Project Run
+** Knownledge Management
+*** Github
+*** VSCode
+*** Markdown
+*** PlantUML
+*** LICEcap
+** Software
+*** Omniverse
+*** Houdini
+*** Photoshop
+*** Blender
+** Hardware
+*** RTX
+*** 6 Displays
+*** 3D Mouse
+*** VR
+@endmindmap
+```
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```plantuml format="png" classes="uml myDiagram" alt="My super diagram placeholder" title="My super diagram" width="300px" height="300px"
+  Goofy ->  MickeyMouse: calls
+  Goofy <-- MickeyMouse: responds
+```
+
 
 ```mermaid
 sequenceDiagram
@@ -19,8 +51,23 @@ And this will produce a flow chart:
 
 ```mermaid
 graph LR
-A[Square Rect] -- Link text --> B((Circle))
+A[Square Rect]
+A -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
+```
+
+
+```plantuml
+@startuml
+  class Example {
+    - String name
+    - int number 
+    
+    +void getName()
+    +void getNumber()
+    +String toString()
+  }
+@enduml
 ```
