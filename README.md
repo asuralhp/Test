@@ -9,7 +9,7 @@
 
 ### Project Run
 
-![project_run](./PlantUML/out/project_run.png)
+![project_run](./PlantUML/out/project_run.svg)
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
