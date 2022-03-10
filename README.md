@@ -1,11 +1,11 @@
 
-# Knownledge Base
+# Wiki Base
 
 ## Projects
 
-### Project Knownlegde Base
+### Project Wiki
 
-![project_knownledge_base](./PlantUML/out/project_knownlegde_base.png)
+![project_knownledge_base](./PlantUML/out/project_wiki.png)
 
 ### Project Run
 
