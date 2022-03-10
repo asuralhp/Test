@@ -3,31 +3,9 @@
 
 ## Projects
 
-![Alt text](./IMGG.png)
+![project_run](./PlantUML/out/project_run.png)
 
 
-```plantuml
-
-@startmindmap
-* Project Run
-** Knownledge Management
-*** Github
-*** VSCode
-*** Markdown
-*** PlantUML
-*** LICEcap
-** Software
-*** Omniverse
-*** Houdini
-*** Photoshop
-*** Blender
-** Hardware
-*** RTX
-*** 6 Displays
-*** 3D Mouse
-*** VR
-@endmindmap
-```
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
