@@ -5,7 +5,7 @@
 
 ### Project Wiki
 
-![project_knownledge_base](./PlantUML/out/project_wiki.png)
+![project_knownledge_base](./PlantUML/out/project_wiki.svg)
 
 ### Project Run
 
