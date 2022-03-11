@@ -1,7 +1,7 @@
 
 # Wiki Base
 
-## Projects
+## Project
 
 ### Project Wiki
 
