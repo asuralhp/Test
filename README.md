@@ -1,6 +1,6 @@
-
-<h1>Wiki</h1>
-
+<div align="center">
+F
+</div>
 
 
 # Wiki Base
