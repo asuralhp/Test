@@ -2,8 +2,7 @@
 
 ## Editor
 
-Delete Line: <kbd>Ctrl</kdb> + <kbd>L</kbd> 
-<kbd>Command</kdb> + <kbd>Shift</kbd> + <kbd>K</kbd>
+Delete Line: <kbd>Ctrl</kdb> + <kbd>L</kbd> | <kbd>Command</kdb> + <kbd>Shift</kbd> + <kbd>K</kbd>
 
 
 ## Navigation
