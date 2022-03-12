@@ -2,6 +2,8 @@
 
 ## Parameter
 
+Revert Default: <kbd>Ctrl</kbd> + <kbd>MMB</kbd>
+
 ### Text box color coding
 - Light Green: controlled by expression
 - Dark Green: controlled by parameter
@@ -17,11 +19,11 @@
 
 ## Vex
 
-run vex code once:
+### Run Vex
 
 - attribute wrangle node
 - run over = Detail
-- <kbd>Ctrl</kbd> + <kbd>Enter</kbd> to run
+- run: <kbd>Ctrl</kbd> + <kbd>Enter</kbd> 
 
 ### Create
 
