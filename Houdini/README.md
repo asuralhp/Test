@@ -1,8 +1,16 @@
 # Houdini
+## UI
+
+Preference: <kbd>Ctrl</kbd> + <kbd>,</kbd>
+External Editor: <kbd>Alt</kbd> + <kbd>E</kbd>
+
+## Workflow
+
+Update Image: Render -> Update Texture
 
 ## SOP
 
-three main SOP types
+### Main SOP types
 
 - Geometry
 - Null
@@ -40,7 +48,7 @@ Revert Default: <kbd>Ctrl</kbd> + <kbd>MMB</kbd>
 
 - attribute wrangle node
 - run over = Detail
-- run: <kbd>Ctrl</kbd> + <kbd>Enter</kbd>
+- Run: <kbd>Ctrl</kbd> + <kbd>Enter</kbd>
 
 ### Create
 
