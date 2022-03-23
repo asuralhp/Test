@@ -1,0 +1,7 @@
+matrix3 m; 
+rotate(m, radians(30), set(0, 1, 0));
+@P *= m;
+
+matrix3 m; 
+scale(m, myscale);
+@P *= m;

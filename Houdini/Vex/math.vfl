@@ -1,0 +1,3 @@
+rint(n);
+fit(n,imin,imax,0,1);
+fit01(n,omin,omin);

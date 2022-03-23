@@ -26,7 +26,8 @@ Parenting Keep: reverse transform when parenting
 
 ## Parameter
 
-Revert Default: <kbd>Ctrl</kbd> + <kbd>MMB</kbd>
+Revert Default: <kbd>Ctrl</kbd> + <kbd>MMB</DÎÎÎÎkbd>
+Eval: ``
 
 ### Text box color coding
 
