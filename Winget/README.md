@@ -7,5 +7,4 @@ winget install --id=Microsoft.VisualStudioCode  -e
 winget install --id=Git.Git  -e
 winget install --id=Python.Python.3  -e
 winget install --id=Cockos.LICEcap  -e
-
 ```
