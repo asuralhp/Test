@@ -7,11 +7,11 @@
 
 ### Initialize
 
-`npx init`
+```npx init```
 
 ### Update
 
-`npm update -g`
+```npm update -g```
 
 
 
