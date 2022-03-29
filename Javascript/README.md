@@ -1,9 +1,13 @@
 
-# Frontend
+# Javascript
 
 ## Developement
 
+### Install
 
+```
+winget install --name "Node.js LTS"
+```
 
 ### Initialize
 
@@ -27,7 +31,7 @@ nodeman app.js
 ```
 
 
-## Lib
+### Library List
 
 ```
 npm i node-watch
