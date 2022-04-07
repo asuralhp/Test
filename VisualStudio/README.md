@@ -2,6 +2,10 @@
 
 ## Compiler
 
+### Start
+<kbd>F5</kbd> 
+
+
 ### Compile
 <kbd>Crtl</kbd> + <kbd>F7</kbd> 
 
@@ -21,5 +25,5 @@
 #### remove line
 <kbd>Crtl</kbd> + <kbd>X</kbd>
 
-#### netx dulplication
+#### next dulplication
 <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>.</kbd>
