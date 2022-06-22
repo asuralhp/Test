@@ -7,6 +7,7 @@ ls
 ls -a
 ls -la
 ls -lah
+ls -R
 
 touch File.ext
 mkdir Folder
