@@ -1,3 +1,4 @@
+Test from bastion i-03ca
 <div align="center">
     <img alt="MARKDOWN SYNTAX" src="https://cloud.githubusercontent.com/assets/5456665/13505154/0ca9ddf6-e1a2-11e5-9408-a8cfc6b493f0.png" width="350" height="70"></img>
 
