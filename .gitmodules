@@ -1,0 +1,3 @@
+[submodule "prisma-report-export"]
+	path = prisma-report-export
+	url = https://github.com/asuralhp/prisma-cloud-cspm-py-cloud-assets-exporter.git
